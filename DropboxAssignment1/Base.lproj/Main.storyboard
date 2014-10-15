@@ -212,14 +212,14 @@
                                         <rect key="frame" x="0.0" y="0.0" width="320" height="772"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                     </imageView>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="YRd-qS-XCi">
-                                        <rect key="frame" x="-27" y="396" width="347" height="64"/>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="WOO-gZ-cY7">
+                                        <rect key="frame" x="0.0" y="395" width="320" height="59"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <segue destination="euv-UX-c1v" kind="modal" id="hbm-LZ-fKN"/>
+                                            <segue destination="euv-UX-c1v" kind="modal" id="ohy-Ov-Zcp"/>
                                         </connections>
                                     </button>
                                 </subviews>
@@ -870,7 +870,7 @@
     <inferredMetricsTieBreakers>
         <segue reference="89f-1W-IDJ"/>
         <segue reference="ZJd-bE-Jv0"/>
-        <segue reference="hbm-LZ-fKN"/>
+        <segue reference="ohy-Ov-Zcp"/>
         <segue reference="ZjY-9i-aU0"/>
     </inferredMetricsTieBreakers>
 </document>
